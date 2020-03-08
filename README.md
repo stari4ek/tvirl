@@ -12,4 +12,5 @@ Feel free to raise [issue](https://github.com/stari4ek/tvirl/issues) for TVirl o
 * [@TVirl in twitter](https://twitter.com/TVirl_app)
 * [Changelog in English](http://bit.ly/tvirl_changelog) (Other languages: [RU](http://bit.ly/tvirl_changelog_ru))
 * [Issues](https://github.com/stari4ek/tvirl/issues)
-* [wiki](https://github.com/stari4ek/tvirl/wiki)
+* [Wiki](https://github.com/stari4ek/tvirl/wiki)
+* [Localization project](https://tvirl.app/translate)
