@@ -13,4 +13,4 @@ Feel free to raise [issue](https://github.com/stari4ek/tvirl/issues) for TVirl o
 * [Changelog in English](http://bit.ly/tvirl_changelog) (Other languages: [RU](http://bit.ly/tvirl_changelog_ru))
 * [Issues](https://github.com/stari4ek/tvirl/issues)
 * [Wiki](https://github.com/stari4ek/tvirl/wiki)
-* [Localization project](https://tvirl.app/translate)
+* [![Crowdin](https://badges.crowdin.net/tvirl/localized.svg)](https://crowdin.com/project/tvirl)
