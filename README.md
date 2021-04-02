@@ -11,6 +11,7 @@ Feel free to raise [issue](https://github.com/stari4ek/tvirl/issues) for TVirl o
 * [TVirl in Play Store](http://bit.ly/2TRlHGn)
 * [@TVirl in twitter](https://twitter.com/TVirl_app)
 * [TVirl in Telegram](https://t.me/tvirl)
+* [TVirl on Reddit](https://www.reddit.com/r/TVirl/)
 * [Changelog in English](http://bit.ly/tvirl_changelog) (Other languages: [RU](http://bit.ly/tvirl_changelog_ru))
 * [Issues](https://github.com/stari4ek/tvirl/issues)
 * [Wiki](https://github.com/stari4ek/tvirl/wiki)
